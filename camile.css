@@ -1,0 +1,42 @@
+#icones{
+    float: right;
+    position: absolute;
+    right: 3%;
+    top: 3%;
+}
+
+#icones a{
+    color: #536600;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.info{
+    padding: 2px 16px;
+    padding-top: 60px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+  }
+  
+  img{
+    width: 200px;
+    height: 200px;
+  }
+
+.card{
+    margin-left: 20px;
+    width: 200px;
+    height: 300px;
+    margin-bottom: 30px;
+}
