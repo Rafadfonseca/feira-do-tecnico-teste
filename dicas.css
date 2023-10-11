@@ -1,0 +1,20 @@
+#linha1{
+    width: 800px;
+    background-color: #4051E1;
+    height: 2px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#linha2{
+    width: 2px;
+    height: 500px;
+    background-color: #4051E1;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+#claudia{
+    top: 9%;
+    left: 6%;
+    position: absolute;
+    color: #4051E1;
+}
