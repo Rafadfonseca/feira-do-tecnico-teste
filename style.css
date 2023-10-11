@@ -1,21 +1,19 @@
 *{
     background-color: #f7f7f9;
-    margin-top: 0;
+    margin: 0;
 }
 
-#fun1{
-    margin-left: 2.5vw;
-    background-color: #f7f7f9;
+#cont{
+    text-align: center;
+    margin: 0;
+    color: #FF3131;
 }
-#funaf{
-    background-color: #f7f7f9;
+.funaf h2 {
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    margin: 0;
 }
-#funaf h1{
-    margin-left: 2.5vw;
-}
-.vid{
-    background-color: #f7f7f9;
-}
-body{
-    background-color: #f7f7f9;
+.vid iframe{
+    padding-left: 50px;
 }
