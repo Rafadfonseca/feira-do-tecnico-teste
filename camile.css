@@ -1,10 +1,13 @@
+body{
+    background-color: #f7f7f9;
+}
 .card{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 #dcdef0;
     transition: 0.3s;
 }
 
 .card:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 #dcdef0;
 }
 
 .info{
@@ -14,7 +17,7 @@
 }
 
 .card{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 #dcdef0;
     transition: 0.3s;
     border-radius: 5px;
   }
@@ -28,17 +31,17 @@
     position: relative;
     top: 100px;
     z-index: 99999;
-    left: 25px;
+    left: 11px;
   }
 
 .card{
-    margin-left: 20px;
-    width: 250px;
-    height: 300px;
+    width: 260px;
+    height: 310px;
     margin-bottom: 30px;
     display: flex;
     position: relative;
     border-radius: 5%;
+    float: left;
 }
 
 .myButton {
@@ -66,4 +69,23 @@
 .titulo{
     color: #4050e1;
     margin-top: 12px;
+    font-weight: 800;
 }
+
+
+.box{
+    width: 100px;
+    height: auto;
+    display: block;
+    float: left;
+    margin-left: 125px;
+    margin-right: 150px;
+}
+
+#selecaodotite{
+    color: #4050e1;
+    font-size: 80px;
+    text-align: center;
+    position: absolute;
+}
+

@@ -1,20 +1,46 @@
+body{
+    background-color: #f7f7f9;
+}
+
 #linha1{
     width: 800px;
     background-color: #4051E1;
     height: 2px;
-    margin-left: 30px;
-    margin-top: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
 }
 #linha2{
     width: 2px;
-    height: 500px;
+    height: 580px;
     background-color: #4051E1;
-    margin-left: 30px;
-    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-bottom: 50px;
 }
 #claudia{
-    top: 9%;
-    left: 6%;
+    top: 11%;
+    left: 8%;
     position: absolute;
     color: #4051E1;
+    font-size: 60px;
+}
+
+img{
+    width: 145px;
+    height: 145px;
+    position: absolute;
+    top: -4%;
+    left: -22px;
+}
+
+#temids{
+    width: 1100px;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 26%;
+    left: 8%;
+}
+.pips{
+    color: #4051E1;
+    font-size: 25px;
 }
